@@ -1,6 +1,6 @@
 # Maria-Javaid
 AI &amp; Data Science portfolio | Machine Learning, RAG, Computational Modelling &amp; Applied AI Projects
-# Hi, I'm Maria Javaid 👋
+# Hi, I'm Maria Javaid 
 
 ### AI Engineer | Data Science | Generative AI & RAG | Machine Learning | Computational Modelling |Python 
 
