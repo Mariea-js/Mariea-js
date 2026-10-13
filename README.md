@@ -72,6 +72,19 @@ prompt and evaluation refinement, technical documentation, and final presentatio
 🔗 [View Project](https://github.com/Mariea-js/Deal-Shield)
 
 ---
+### 🌱 Crop Feature Selection for Agricultural Decision Support
+**Python · scikit-learn · Logistic Regression · Multiclass Classification**  
+*Machine Learning Portfolio Project | Completed*
+
+Extended a DataCamp agricultural prediction exercise into a reproducible machine learning study comparing individual soil measurements with a combined-feature model across 22 crop classes.
+
+**Key results:** Achieved **0.677 weighted F1** and **68.2% test accuracy**, compared with **0.202 weighted F1** using the strongest individual feature (potassium).
+
+**Methods:** StandardScaler pipelines, stratified train/test splitting, 5-fold cross-validation, and held-out evaluation.
+
+🔗 [View Project](https://github.com/Mariea-js/Crop-Feature-Selection-ML)
+
+---
 
 ### 📊 Customer Purchase Behaviour Analysis & Prediction
 **Data Science Project | In Progress**
