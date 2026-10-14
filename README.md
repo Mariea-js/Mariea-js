@@ -86,13 +86,13 @@ Extended a DataCamp agricultural prediction exercise into a reproducible machine
 
 ---
 
-### 📊 Customer Purchase Behaviour Analysis & Prediction
-**Data Science Project | In Progress**
+**Customer Purchase Prediction | PyTorch & Data Science**
 
-Building an end-to-end machine learning workflow covering data cleaning, 
-preprocessing, exploratory analysis, classification, and model evaluation.
+Educational machine-learning project covering customer-data cleaning, feature preparation, neural-network classification, and model evaluation. Includes baseline comparison, classification metrics, and performance visualizations.
 
-> Currently developing and documenting this project for my Data Science portfolio.
+**Stack:** Python · pandas · scikit-learn · PyTorch · Matplotlib
+
+[View Project](https://github.com/Mariea-js/Customer-Purchase-Prediction-ML)
 
 ---
 
