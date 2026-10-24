@@ -134,7 +134,7 @@ computational modelling, and AI-assisted decision-support systems**.
 
 📧 [mariajavaid1993@gmail.com](mailto:mariajavaid1993@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/maria-javaid-48b3a84a)  
-🌐 [Portfolio](https://vine-marjoram-d4d.notion.site/Maria-Javaid-3e9d6b9f94328005afc5d94d3314db15)
+🌐 [Portfolio](https://github.com/Mariea-js?tab=repositories)
 
 ---
 
